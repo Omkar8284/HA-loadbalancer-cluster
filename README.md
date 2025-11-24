@@ -29,14 +29,4 @@ Why This Setup?
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/87918817-2da0-4fdb-b87a-d2bc09f5e5c7" />
 
 
-📁 Configuration Files
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/218f9959-682f-4dfa-8707-c2aed64dbff6" />
-
-
-
-📁 Configuration Files
-![Uploading image.png…]()
-
-
 Done!!
