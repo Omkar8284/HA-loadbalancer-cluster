@@ -65,15 +65,11 @@ ip addr show | grep 192.168.59.100
 # Test from client
 curl http://192.168.59.100
 
-# Test load balancing
-for i in {1..6}; do curl -s http://192.168.59.100; echo "---"; done
-Expected Output:
-<h1>HELLO from NODE1</h1>
----
-<h1>HELLO from NODE2</h1>
----
-<h1>HELLO from NODE1</h1>
----
+🏗️ Architecture
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/218f9959-682f-4dfa-8707-c2aed64dbff6" />
+
+
 
 📁 Configuration Files
 ![Uploading image.png…]()
